@@ -12,7 +12,7 @@ My journey in information technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/aehumphrey/Test-Project/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -50,5 +50,5 @@ My journey in information technology has led me to develop a passion for cyberse
 </div>
 
 ## Projects
-- Test Project
+- <a href="https://github.com/aehumphrey/Test-Project/tree/main">Detection Lab</a>
 - SOC Automation Project
