@@ -12,7 +12,7 @@ My journey in information technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/aehumphrey/Test-Project/tree/main">Detection Lab</a>|
+| Risk Assessment and Compliance Knowledge       | <a href="https://github.com/aehumphrey/Test-Project/tree/main">Security Audit Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -30,10 +30,24 @@ My journey in information technology has led me to develop a passion for cyberse
 
 </div>
 
-### Endpoint
+### Email Security
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Mimecast-005FF9?&style=for-the-badge&logio=Mimecast&logoColor=white" />
+
+</div>
+
+
+### Coding Languages
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src = "https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white"</>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"</>
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"</>
+
+
+
+
+
 </div>
 
 ### SIEM
@@ -50,5 +64,5 @@ My journey in information technology has led me to develop a passion for cyberse
 </div>
 
 ## Projects
-- <a href="https://github.com/aehumphrey/Test-Project/tree/main">Detection Lab</a>
+- <a href="https://github.com/aehumphrey/Test-Project/tree/main">Security Audit Lab</a>
 - SOC Automation Project
