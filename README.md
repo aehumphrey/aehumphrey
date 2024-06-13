@@ -8,19 +8,19 @@ I'm a recent graduate with a keen interest in cybersecurity, adept at analyzing 
 My journey in information technology has led me to develop a passion for cybersecurity, and I am eager to transition into this field. I am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst with the goal of leveraging my skills to progress further into the field as a Forensic Analyst or Threat Intelligence Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Risk Assessment and Compliance Knowledge       | <a href="https://github.com/aehumphrey/Test-Project/tree/main">Security Audit Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Incident Response Planning and Execution | Incident Report Analysis Project|
+| Linux Distributions and File Permissions     | File Permissions in Linux Lab|
+| Database Configuration                | Filtering in SQL Lab|
+| Attack Vectors and Vulnerabilities | Vulnerability Assessment Report|
+| TBD| Incident Journal Lab |
+| Scripting and Automation for Threat Mitigation | Creating Algorithms in Python Lab|
+| Network Analysis with Wireshark       | TBD|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -36,17 +36,12 @@ My journey in information technology has led me to develop a passion for cyberse
 
 </div>
 
-
 ### Coding Languages
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src = "https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white"</>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"</>
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"</>
-
-
-
-
 
 </div>
 
@@ -65,4 +60,10 @@ My journey in information technology has led me to develop a passion for cyberse
 
 ## Projects
 - <a href="https://github.com/aehumphrey/Test-Project/tree/main">Security Audit Lab</a>
-- SOC Automation Project
+- Incident Report Analysis Project
+- File Permissions in Linux Lab
+- Filtering in SQL Lab
+- Vulnerability Assessment Report
+- Incident Journal Lab
+- Creating Algorithms in Python Lab
+- SIEM project TBD
