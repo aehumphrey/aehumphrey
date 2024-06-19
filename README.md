@@ -28,17 +28,23 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
      <img src="https://img.shields.io/badge/-Mimecast-005FF9?&style=for-the-badge&logio=Mimecast&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"</>
 
 </div>
 
+### Databases
+<div>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"</>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"</>
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"</>
+
+</div>
 
 ### Programming
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"</>
-    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"</>
-    <img src="https://img.shields.io/badge/-HTML/CSS-1572B6?style=for-the-badge&logo=html5&logoColor=white">
+    
 
 </div>
 
