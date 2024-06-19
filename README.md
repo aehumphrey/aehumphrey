@@ -12,7 +12,7 @@ My journey in information technology has led me to develop a passion for cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Risk Assessment and Compliance Knowledge       | <a href="https://github.com/aehumphrey/Test-Project/tree/main">Security Audit Lab</a>|
-| Incident Response Planning and Execution | Incident Report Analysis Project|
+| Incident Response Planning and Execution | <a href="https://github.com/aehumphrey/Security-Incident-Lab/blob/69c90edbb8a1e5aadc5d4c65b74b22844d4790c4/README.md">Incident Report Analysis Project</a>|
 | Linux Distributions and File Permissions     | File Permissions in Linux Lab|
 | Database Configuration                | Filtering in SQL Lab|
 | Attack Vectors and Vulnerabilities | Vulnerability Assessment Report|
