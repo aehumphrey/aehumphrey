@@ -13,11 +13,11 @@ My journey in information technology has led me to develop a passion for cyberse
 |-----------------------------------------------|----------------------------|
 | Risk Assessment and Compliance Knowledge       | <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>|
 | Incident Response Planning and Execution | <a href="https://github.com/aehumphrey/Security-Report-Analysis-Project">Incident Report Analysis Project</a>|
-| Linux Distributions and File Permissions     | File Permissions in Linux Lab|
-| Database Configuration                | Filtering in SQL Lab|
-| Attack Vectors and Vulnerabilities | Vulnerability Assessment Report|
+| Bash, Zsh, Linux Commands and File Permissions     | <a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>|
+| Database Configuration                | Lab: Advanced Filtering in SQL|
+| Attack Vectors and Vulnerabilities | Vulnerability Assessment Project|
 | TBD| Incident Journal Lab |
-| Scripting and Automation for Threat Mitigation | Creating Algorithms in Python Lab|
+| Scripting and Automation for Threat Mitigation | Lab: Creating Algorithms in Python |
 | Network Analysis with Wireshark       | TBD|
 
 ## Tools
@@ -67,7 +67,7 @@ My journey in information technology has led me to develop a passion for cyberse
 ## Projects
 - <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>
 - <a href="https://github.com/aehumphrey/Security-Report-Analysis-Project">Incident Report Analysis Project</a>
-- File Permissions in Linux Lab
+- <a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>
 - Filtering in SQL Lab
 - Vulnerability Assessment Report
 - Incident Journal Lab
