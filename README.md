@@ -11,8 +11,8 @@ My journey in information technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Risk Assessment and Compliance Knowledge       | <a href="https://github.com/aehumphrey/Test-Project/tree/main">Security Audit Lab</a>|
-| Incident Response Planning and Execution | <a href="https://github.com/aehumphrey/Security-Incident-Lab/blob/69c90edbb8a1e5aadc5d4c65b74b22844d4790c4/README.md">Incident Report Analysis Project</a>|
+| Risk Assessment and Compliance Knowledge       | <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>|
+| Incident Response Planning and Execution | <a href="https://github.com/aehumphrey/Security-Report-Analysis-Project">Incident Report Analysis Project</a>|
 | Linux Distributions and File Permissions     | File Permissions in Linux Lab|
 | Database Configuration                | Filtering in SQL Lab|
 | Attack Vectors and Vulnerabilities | Vulnerability Assessment Report|
@@ -27,21 +27,18 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Mimecast-005FF9?&style=for-the-badge&logio=Mimecast&logoColor=white" />
 
 </div>
 
-### Email Security
-<div>
-    <img src="https://img.shields.io/badge/-Mimecast-005FF9?&style=for-the-badge&logio=Mimecast&logoColor=white" />
 
-</div>
-
-### Coding Languages
+### Programming
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src = "https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white"</>
+    <img src="https://img.shields.io/badge/-bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"</>
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"</>
+    <img src="https://img.shields.io/badge/-HTML/CSS-1572B6?style=for-the-badge&logo=html5&logoColor=white">
 
 </div>
 
@@ -49,6 +46,15 @@ My journey in information technology has led me to develop a passion for cyberse
 <div>
     <img src="https://img.shields.io/badge/-Google%20Chronicle-1679A7?&style=for-the-badge&logo=google-chronicle&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### Operating Systems
+<div>
+    <img src = "https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white"</>
+   <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white">
+   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+   
+ 
 </div>
 
 ## Certifications
@@ -59,8 +65,8 @@ My journey in information technology has led me to develop a passion for cyberse
 </div>
 
 ## Projects
-- <a href="https://github.com/aehumphrey/Test-Project/tree/main">Security Audit Lab</a>
-- Incident Report Analysis Project
+- <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>
+- <a href="https://github.com/aehumphrey/Security-Report-Analysis-Project">Incident Report Analysis Project</a>
 - File Permissions in Linux Lab
 - Filtering in SQL Lab
 - Vulnerability Assessment Report
