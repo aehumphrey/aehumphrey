@@ -30,7 +30,9 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirusTotal-394496?style=for-the-badge&logo=virustotal&logoColor=white" />
     <img src="https://img.shields.io/badge/-Mimecast-005FF9?&style=for-the-badge&logio=Mimecast&logoColor=white" />
+
    
+
 
 </div>
 
@@ -39,7 +41,7 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"</>
     <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"</>
-    <img src="https://img.shields.io/badge/-MariaDB-003545?&style=for-the-badge&logo=MariaDB&logoColor=white" />
+   
 </a>
 
 
@@ -49,12 +51,10 @@ My journey in information technology has led me to develop a passion for cyberse
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+   <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML Badge">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
-   <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logoColor=white">
-
-    
-
+  
 </div>
 
 ### SIEM
@@ -69,6 +69,14 @@ My journey in information technology has led me to develop a passion for cyberse
    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white">
    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
    
+ 
+</div>
+
+### Remote Access/VMs
+<div>
+    <img src="https://img.shields.io/badge/-MariaDB-003545?&style=for-the-badge&logo=MariaDB&logoColor=white" />
+   <img src="https://img.shields.io/badge/-myrtille-005FF9?&style=for-the-badge&logio=myrtille&logoColor=white" />
+ 
  
 </div>
 
