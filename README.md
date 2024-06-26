@@ -14,7 +14,7 @@ My journey in information technology has led me to develop a passion for cyberse
 | Risk Assessment and Compliance Knowledge       | <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>|
 | Incident Response Planning and Execution | <a href="https://github.com/aehumphrey/Security-Report-Analysis-Project">Incident Report Analysis Project</a>|
 | Bash, Zsh, Linux Commands and File Permissions     | <a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>|
-| Database Configuration                | Lab: Advanced Filtering in SQL|
+| Database Configuration                | <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project|
 | Attack Vectors and Vulnerabilities | Vulnerability Assessment Project|
 | TBD| Incident Journal Lab |
 | Scripting and Automation for Threat Mitigation | Lab: Creating Algorithms in Python |
@@ -80,7 +80,7 @@ My journey in information technology has led me to develop a passion for cyberse
 - <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>
 - <a href="https://github.com/aehumphrey/Security-Report-Analysis-Project">Incident Report Analysis Project</a>
 - <a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>
-- Filtering in SQL Lab
+- <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project
 - Vulnerability Assessment Report
 - Incident Journal Lab
 - Creating Algorithms in Python Lab
