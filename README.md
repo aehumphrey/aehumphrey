@@ -16,9 +16,10 @@ My journey in information technology has led me to develop a passion for cyberse
 | Bash, Zsh, Linux Commands and File Permissions     | <a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>|
 | Database Configuration                | <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project</a>|
 | Attack Vectors and Vulnerabilities | <a href= "https://github.com/aehumphrey/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
-| TBD| Incident Journal Lab |
-| Scripting and Automation for Threat Mitigation | Lab: Creating Algorithms in Python |
 | Network Analysis with Wireshark       | TBD|
+| Network Analysis with tcpdump       | TBD|
+| File hashing with VirusTotal       | TBD|
+| Scripting and Automation for Threat Mitigation | Creating Algorithms in Python Lab |
 
 ## Tools
 
@@ -27,7 +28,9 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-394496?style=for-the-badge&logo=virustotal&logoColor=white" />
     <img src="https://img.shields.io/badge/-Mimecast-005FF9?&style=for-the-badge&logio=Mimecast&logoColor=white" />
+   
 
 </div>
 
