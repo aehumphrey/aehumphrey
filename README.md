@@ -11,15 +11,28 @@ My journey in information technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Risk Assessment and Compliance Knowledge       | <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>|
-| Incident Response Planning and Execution | <a href="https://github.com/aehumphrey/Security-Report-Analysis-Project">Incident Report Analysis Project</a>|
-| Bash, Zsh, Linux Commands and File Permissions     | <a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>|
-| Database Configuration                | <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project</a>|
-| Attack Vectors and Vulnerabilities | <a href= "https://github.com/aehumphrey/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
-| Network Analysis with Wireshark       | TBD|
-| Network Analysis with tcpdump       | TBD|
-| File hashing with VirusTotal       | TBD|
-| Scripting and Automation for Threat Mitigation | Creating Algorithms in Python Lab |
+| Controls and Vulnerability Identification  | <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>|
+| Compliance Knowledge  | <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>|
+| Incident Response Preparation  | <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>|
+| Incident Triage and Coordination | <a href="https://github.com/aehumphrey/Security-Report-Analysis-Project">Incident Report Analysis Project</a>|
+| Post-Incident Review and Improvement  |<a href="https://github.com/aehumphrey/Security-Report-Analysis-Project">Incident Report Analysis Project</a>|
+| Command-Line Proficiency  |<a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>|
+| Auditing and Compliance  |<a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>|
+| SQL Syntax Mastery  | <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project</a>|
+| Data Integrity and Validation  | <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project</a>|
+| Risk Assessment  |  <a href= "https://github.com/aehumphrey/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
+| Compliance and Standards  | <a href= "https://github.com/aehumphrey/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
+| Packet Inspection and Filtering  | LINK TBD|
+| Network Troubleshooting and Optimization  | LINK TBD|
+| Protocol Analysis  | LINK TBD|
+| Packet Capture | tcpdump|
+| Traffic Monitoring  | tcpdump|
+| Malware Detection  | virustotal|
+| Threat Intelligence Gathering | virustotal|
+| File and URL Analysis  | virustotal|
+| Algorithm Design | python|
+| Scripting and Automation for Threat Mitigation | python|
+| Debugging and Optimization | python|
 
 ## Tools
 
