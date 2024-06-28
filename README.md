@@ -22,17 +22,17 @@ My journey in information technology has led me to develop a passion for cyberse
 | Data Integrity and Validation  | <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project</a>|
 | Risk Assessment  |  <a href= "https://github.com/aehumphrey/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
 | Compliance and Standards  | <a href= "https://github.com/aehumphrey/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
-| Packet Inspection and Filtering  | LINK TBD|
-| Network Troubleshooting and Optimization  | LINK TBD|
-| Protocol Analysis  | LINK TBD|
-| Packet Capture | tcpdump|
-| Traffic Monitoring  | tcpdump|
-| Malware Detection  | virustotal|
-| Threat Intelligence Gathering | virustotal|
-| File and URL Analysis  | virustotal|
-| Algorithm Design | python|
-| Scripting and Automation for Threat Mitigation | python|
-| Debugging and Optimization | python|
+| Packet Inspection and Filtering  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
+| Network Troubleshooting and Optimization  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
+| Protocol Analysis  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
+| Packet Capture | Capturing Packets with tcpdump Project - coming soon!|
+| Traffic Monitoring  | " " "  |
+| Malware Detection  | Investigating Suspicious Files Project - coming soon!|
+| Threat Intelligence Gathering | " " "|
+| File and URL Analysis  | " " "  |
+| Algorithm Design | Creating Algorithms in Python Lab - coming soon! |
+| Scripting and Automation for Threat Mitigation | " " " |
+| Debugging and Optimization | " " "|
 
 ## Tools
 
@@ -44,9 +44,6 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-VirusTotal-394496?style=for-the-badge&logo=virustotal&logoColor=white" />
     <img src="https://img.shields.io/badge/-Mimecast-005FF9?&style=for-the-badge&logio=Mimecast&logoColor=white" />
 
-   
-
-
 </div>
 
 ### Databases
@@ -54,9 +51,6 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"</>
     <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"</>
-   
-</a>
-
 
 </div>
 
@@ -82,7 +76,6 @@ My journey in information technology has led me to develop a passion for cyberse
    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white">
    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
    
- 
 </div>
 
 ### Remote Access/VMs
@@ -90,13 +83,11 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-MariaDB-003545?&style=for-the-badge&logo=MariaDB&logoColor=white" />
    <img src="https://img.shields.io/badge/-myrtille-005FF9?&style=for-the-badge&logio=myrtille&logoColor=white" />
  
- 
 </div>
 
 ## Certifications
 <div>
 <a href="https://www.credly.com/badges/fa1c5e22-3e35-4c17-acf7-c6745190fe94/public_url"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-000080?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-
     
 </div>
 
@@ -106,6 +97,8 @@ My journey in information technology has led me to develop a passion for cyberse
 - <a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>
 - <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project</a>
 - <a href= "https://github.com/aehumphrey/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>
-- Incident Journal Lab
-- Creating Algorithms in Python Lab
-- SIEM project TBD
+- <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>
+- Capturing Packets with tcpdump Project - coming soon!
+- Investigating Suspicious Files Project - coming soon!
+- Creating Algorithms in Python Lab - coming soon!
+
