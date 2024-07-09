@@ -1,11 +1,11 @@
 # Hi! I'm Allison
 <a href="https://www.linkedin.com/in/allisonefhumphrey/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## Intro
-I'm a recent graduate with a keen interest in cybersecurity, adept at analyzing threats and dedicated to solving complex digital challenges. 
+I'm a recent graduate with a keen interest in cybersecurity, machine learning, and data analysis. I am adept at analyzing threats and dedicated to solving complex digital challenges. 
 
 ## Objective
 
-My journey in information technology has led me to develop a passion for cybersecurity, and I am eager to transition into this field. I am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst with the goal of leveraging my skills to progress further into the field as a Forensic Analyst or Threat Intelligence Analyst.
+My journey in information technology has led me to develop a passion for cybersecurity, front-end development, and data analysis, and I am eager to transition into this field. My passions include applying advanced analytics and machine learning techniques to detect and mitigate cyber threats, enhance security posture, and drive actionable insights from complex data sets.
 
 ## Skills
 
