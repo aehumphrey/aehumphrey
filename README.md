@@ -30,9 +30,12 @@ My journey in information technology has led me to develop a passion for cyberse
 | Malware Detection  | Investigating Suspicious Files Project - coming soon!|
 | Threat Intelligence Gathering | " " "|
 | File and URL Analysis  | " " "  |
-| Algorithm Design | Creating Algorithms in Python Lab - coming soon! |
+| Algorithm Design and Analysis | Creating Algorithms in Python Lab - coming soon! |
 | Scripting and Automation for Threat Mitigation | " " " |
 | Debugging and Optimization | " " "|
+| Randomization Techniques | Books on Vacation Project - coming soon!|
+| Programming Fundamentals | " " " |
+| Testing and Error Handling | " " " |
 
 ## Tools
 
@@ -101,4 +104,5 @@ My journey in information technology has led me to develop a passion for cyberse
 - Capturing Packets with tcpdump Project - coming soon!
 - Investigating Suspicious Files Project - coming soon!
 - Creating Algorithms in Python Lab - coming soon!
+- Books on Vacation Project - coming soon!
 
