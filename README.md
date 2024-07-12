@@ -25,14 +25,6 @@ My journey in information technology has led me to develop a passion for cyberse
 | Packet Inspection and Filtering  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
 | Network Troubleshooting and Optimization  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
 | Protocol Analysis  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
-| Packet Capture | Capturing Packets with tcpdump Project - coming soon!|
-| Traffic Monitoring  | " " "  |
-| Malware Detection  | Investigating Suspicious Files Project - coming soon!|
-| Threat Intelligence Gathering | " " "|
-| File and URL Analysis  | " " "  |
-| Algorithm Design and Analysis | Creating Algorithms in Python Lab - coming soon! |
-| Scripting and Automation for Threat Mitigation | " " " |
-| Debugging and Optimization | " " "|
 | Randomization Techniques | Books on Vacation Project - coming soon!|
 | Programming Fundamentals | " " " |
 | Testing and Error Handling | " " " |
@@ -101,8 +93,5 @@ My journey in information technology has led me to develop a passion for cyberse
 - <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project</a>
 - <a href= "https://github.com/aehumphrey/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>
 - <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>
-- Capturing Packets with tcpdump Project - coming soon!
-- Investigating Suspicious Files Project - coming soon!
-- Creating Algorithms in Python Lab - coming soon!
 - Books on Vacation Project - coming soon!
 
