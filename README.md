@@ -11,23 +11,25 @@ My journey in information technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Randomization Techniques | <a href="https://github.com/aehumphrey/Python-Random-Book-Selection">Books on Vacation Project</a>|
+| Programming Fundamentals | <a href="https://github.com/aehumphrey/Python-Random-Book-Selection">Books on Vacation Project</a>|
+| Testing and Error Handling | <a href="https://github.com/aehumphrey/Python-Random-Book-Selection">Books on Vacation Project</a>|
+| SQL Syntax Mastery  | <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project</a>|
+| Data Integrity and Validation  | <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project</a>|
+| Command-Line Proficiency  |<a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>|
+| Auditing and Compliance  |<a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>|
+| Packet Inspection and Filtering  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
+| Network Troubleshooting and Optimization  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
+| Protocol Analysis  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
 | Controls and Vulnerability Identification  | <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>|
 | Compliance Knowledge  | <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>|
 | Incident Response Preparation  | <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>|
 | Incident Triage and Coordination | <a href="https://github.com/aehumphrey/Security-Report-Analysis-Project">Incident Report Analysis Project</a>|
 | Post-Incident Review and Improvement  |<a href="https://github.com/aehumphrey/Security-Report-Analysis-Project">Incident Report Analysis Project</a>|
-| Command-Line Proficiency  |<a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>|
-| Auditing and Compliance  |<a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>|
-| SQL Syntax Mastery  | <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project</a>|
-| Data Integrity and Validation  | <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project</a>|
 | Risk Assessment  |  <a href= "https://github.com/aehumphrey/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
 | Compliance and Standards  | <a href= "https://github.com/aehumphrey/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
-| Packet Inspection and Filtering  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
-| Network Troubleshooting and Optimization  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
-| Protocol Analysis  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
-| Randomization Techniques | <a href="https://github.com/aehumphrey/Python-Random-Book-Selection">Books on Vacation Project</a>|
-| Programming Fundamentals | <a href="https://github.com/aehumphrey/Python-Random-Book-Selection">Books on Vacation Project</a>|
-| Testing and Error Handling | <a href="https://github.com/aehumphrey/Python-Random-Book-Selection">Books on Vacation Project</a>|
+
+
 
 ## Tools
 
