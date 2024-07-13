@@ -5,7 +5,7 @@ I'm a recent graduate with a keen interest in cybersecurity, machine learning, a
 
 ## Objective
 
-My journey in information technology has led me to develop a passion for cybersecurity, front-end development, and data analysis, and I am eager to transition into this field. My passions include applying advanced analytics and machine learning techniques to detect and mitigate cyber threats, enhance security posture, and drive actionable insights from complex data sets.
+My journey in information technology has led me to develop a passion for cybersecurity, back-end development, and data analysis, and I am eager to transition into this field. My passions include applying advanced analytics and machine learning techniques to detect and mitigate cyber threats, enhance security posture, and drive actionable insights from complex data sets.
 
 ## Skills
 
@@ -18,6 +18,9 @@ My journey in information technology has led me to develop a passion for cyberse
 | Data Integrity and Validation  | <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project</a>|
 | Command-Line Proficiency  |<a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>|
 | Auditing and Compliance  |<a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>|
+| Algorithm Design and Analysis | <a href="https://github.com/aehumphrey/Algorithms-for-File-Updates-Lab"> Creating Algorithms in Python Lab</a> |
+| Scripting and Automation | <a href="https://github.com/aehumphrey/Algorithms-for-File-Updates-Lab"> Creating Algorithms in Python Lab</a>|
+| Debugging and Optimization | <a href="https://github.com/aehumphrey/Algorithms-for-File-Updates-Lab"> Creating Algorithms in Python Lab</a> |
 | Packet Inspection and Filtering  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
 | Network Troubleshooting and Optimization  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
 | Protocol Analysis  | <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>|
@@ -88,12 +91,14 @@ My journey in information technology has led me to develop a passion for cyberse
     
 </div>
 
-## Projects
-- <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>
-- <a href="https://github.com/aehumphrey/Security-Report-Analysis-Project">Incident Report Analysis Project</a>
-- <a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>
-- <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project</a>
-- <a href= "https://github.com/aehumphrey/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>
+## Projects (Alphabetical)
+
 - <a href="https://github.com/aehumphrey/Analyzing-Packets-Wireshark">Analyzing Packets with Wireshark Project</a>
 - <a href="https://github.com/aehumphrey/Python-Random-Book-Selection">Books on Vacation Project</a>
+- <a href="https://github.com/aehumphrey/Algorithms-for-File-Updates-Lab"> Creating Algorithms in Python Lab</a>
+- <a href="https://github.com/aehumphrey/Security-Report-Analysis-Project">Incident Report Analysis Project</a>
+- <a href ="https://github.com/aehumphrey/File-Permissions-Linux-Lab">Managing Authorization Lab</a>
+- <a href="https://github.com/aehumphrey/Security-Audit-Lab">Security Audit Lab</a>
+- <a href="https://github.com/aehumphrey/SQL-Filtering-Investigation-Project/">SQL Filtering Investigation Project</a>
+- <a href= "https://github.com/aehumphrey/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>
 
